@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx-app
-        image: 2winmin/nginxweb:v1.0
+        image: 2winmin/nginxweb:v2.0
         ports:
         - containerPort: 80
         resources:
